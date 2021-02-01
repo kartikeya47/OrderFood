@@ -1,1 +1,1 @@
-# responsive_website
+This is a very basic webpage made out of HTML, CSS and Bootstrap. This webpage showcases responsiveness in medium sized, large sized and extra-large sized screen devices. This does not include any backend for responses, but is a dynamic webpage.
